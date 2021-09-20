@@ -1,6 +1,6 @@
-# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50px"> Hello, folks!  👨‍💻
+# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50px"> Hello, folks!  I'm Binayak Jha 👨‍💻
 
-<p>My name is <b>Binayak Jha</b>, and I'm a full-stack web developer who's also interested in machine learning. I enjoy learning new things and sharing what I've learned with others. Not only do I enjoy coding, but I also enjoy growing 🌱 plants and ✍️ writing articles about them. I also act on my brother youtube channel called <a href='https://www.youtube.com/channel/UCsyi8rUBKXEKbGqtr-tIjKA' target='_blank'>Shubham Jha Vines</a></p>
+<p> I'm a full-stack web developer who's also interested in machine learning. I enjoy learning new things and sharing what I've learned with others. Not only do I enjoy coding, but I also enjoy growing 🌱 plants and ✍️ writing articles about them. I also act on my brother youtube channel called <a href='https://www.youtube.com/channel/UCsyi8rUBKXEKbGqtr-tIjKA' target='_blank'>Shubham Jha Vines</a></p>
 
 ## My Github Stats:
 
