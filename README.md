@@ -2,7 +2,8 @@
 
 <p>My name is Binayak Jha, I am a full stack web-developer and also learning machine learning. I have a passion of learning and sharing the ideas with public.
 
-  
+
+
 
 ## My Github Stats:
 
@@ -20,7 +21,7 @@
 
 ## Technologies and tools :
 
-![](https://img.shields.io/badge/OS-MACOS-informational?style=flat&logo=apple&logoColor=white&color=2bbc8a)![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)![](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=HTML&logoColor=white&color=2bbc8a)![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=css&logoColor=white&color=2bbc8a)![](https://img.shields.io/badge/Code-Bootstrap-informational?style=flat&logo=bootstrap&logoColor=white&color=2bbc8a)![](https://img.shields.io/badge/Code-Django-informational?style=flat&logo=django&logoColor=white&color=2bbc8a)![](https://img.shields.io/badge/Tools-MySQLite-informational?style=flat&logo=sqlite&logoColor=white&color=2bbc8a)![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=git&logoColor=white&color=2bbc8a)![](https://img.shields.io/badge/Tools-Github-informational?style=flat&logo=github&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/OS-MACOS-informational?style=flat&logo=apple&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=HTML&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=css&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Code-Bootstrap-informational?style=flat&logo=bootstrap&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Code-Django-informational?style=flat&logo=django&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Tools-MySQLite-informational?style=flat&logo=sqlite&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=git&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Tools-Github-informational?style=flat&logo=github&logoColor=white&color=2bbc8a) 
 
 ## Social Media:
 
