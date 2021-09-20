@@ -12,8 +12,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BinayakJha&repo=assistant)](https://github.com/BinayakJha/assistant) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BinayakJha&repo=machinelearning)](https://github.com/BinayakJha/machinelearning)
 
 ## Most Used Programming Languages By Me:
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BinayakJha&langs_count=7)](https://github.com/BinayakJha)
+<p align="center"><img src="https://camo.githubusercontent.com/27ce1cd8562467db5ae94977a75f85b772157c0492af0af266b944e7ab3fd5d9/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d42696e6179616b4a6861266c616e67735f636f756e743d37" alt="BinayakJha" /></p>
 
 ## Technologies and tools used by me:
 
