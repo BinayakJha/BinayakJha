@@ -1,6 +1,6 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50px">
 
-<p>My name is Binayak Jha, I am a full stack web-developer and also learning machine learning. I have a passion of learning and sharing the ideas with public. I am not only fond of coding but I am also fond of growing 🌱plants and also writing blogs on it. I also act on my brother youtube channel called <a href='https://www.youtube.com/channel/UCsyi8rUBKXEKbGqtr-tIjKA'>Shubham Jha Vines</a>
+<p>My name is Binayak Jha, I am a full stack web-developer and also learning machine learning. I have a passion of learning and sharing the ideas with public. I am not only fond of coding but I am also fond of growing 🌱 plants and also writing blogs on it. I also act on my brother youtube channel called <a href='https://www.youtube.com/channel/UCsyi8rUBKXEKbGqtr-tIjKA'>Shubham Jha Vines</a>
 
 
 
