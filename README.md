@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50px">
 
-[![Header](https://avatars.githubusercontent.com/u/69071769?v=4 "Header")](https://binayakjha.github.io/myportfolio/)
+<p>My name is Binayak Jha, I am a full stack web-developer and also learning machine learning.</p>
 
