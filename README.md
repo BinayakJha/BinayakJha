@@ -29,7 +29,7 @@ You can contact me from:
 
 <center>
  <a href="https://www.facebook.com/binayak.jha.py/">
-   <img src="https://cdn.freebiesupply.com/images/large/2x/facebook-logo-circle.png" width="50px">
+   <img src="https://upload.wikimedia.org/wikipedia/en/thumb/0/04/Facebook_f_logo_%282021%29.svg/100px-Facebook_f_logo_%282021%29.svg.png" width="50px">
  </a>&nbsp;&nbsp;
  <a href="mailto:jha36binayak@gmail.com">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/100px-Gmail_icon_%282020%29.svg.png" width="50px">
