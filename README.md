@@ -21,7 +21,7 @@
 ## Social Media:
 
 You can contact me from:
-
+<p align='center'>
 <center>
  <a href="https://www.facebook.com/binayak.jha.py/">
    <img src="https://upload.wikimedia.org/wikipedia/en/thumb/0/04/Facebook_f_logo_%282021%29.svg/100px-Facebook_f_logo_%282021%29.svg.png" width="50px">
@@ -30,4 +30,5 @@ You can contact me from:
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/100px-Gmail_icon_%282020%29.svg.png" width="50px">
  </a>
  </center>
+ </p>        
 
