@@ -4,7 +4,7 @@
 
 ## My Github Stats:
 
-<p align="center"><img src="https://camo.githubusercontent.com/e0d4b5d3a06326f59ecd549a5195f1888b07d1ca6cf61e9c7ed5509607bcb3ee/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d42696e6179616b4a68612673686f775f69636f6e733d74727565267468656d653d7261646963616c" alt="BinayakJha"/></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=BinayakJha&show_icons=true&" alt="BinayakJha"/></p>
 
 ## Some Of My Repositories:
 
