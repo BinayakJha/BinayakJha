@@ -15,3 +15,13 @@
 
 ![Binayak's GitHub stats](https://github-readme-stats.vercel.app/api?username=BinayakJha&show_icons=true&theme=radical)
 
+## Some Of My Repositories:
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BinayakJha&repo=search-engine&show_owner)](https://github.com/BinayakJha/search-engine) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+
+## Most Used Programming Languages By Me:
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BinayakJha)](https://github.com/anuraghazra/github-readme-stats)
+
