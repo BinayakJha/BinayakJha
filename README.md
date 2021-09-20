@@ -11,5 +11,7 @@
  </a>
  </center>
 
+## My Github Stats:
 
+![Binayak's GitHub stats](https://github-readme-stats.vercel.app/api?username=BinayakJha&show_icons=true&theme=radical)
 
