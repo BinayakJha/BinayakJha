@@ -17,11 +17,11 @@
 
 ## Some Of My Repositories:
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BinayakJha&repo=search-engine&show_owner)](https://github.com/BinayakJha/search-engine) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BinayakJha&repo=search-engine&show_owner)](https://github.com/BinayakJha/search-engine) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BinayakJha&repo=autoplot-web)](https://github.com/BinayakJha/autoplot-web)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BinayakJha&repo=assistant)](https://github.com/BinayakJha/assistant) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BinayakJha&repo=machinelearning)](https://github.com/BinayakJha/machinelearning)
 
 ## Most Used Programming Languages By Me:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BinayakJha)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BinayakJha)](https://github.com/BinayakJha)
 
