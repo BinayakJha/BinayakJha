@@ -2,7 +2,7 @@
 
 <p> I'm a full-stack web developer interested in machine learning. I enjoy learning new things and sharing them with others. Apart from coding, I enjoy growing 🌱 plants and ✍️ writing articles on them. Sometimes, I act on the videos my brother creates for his channel,<a href='https://www.youtube.com/channel/UCsyi8rUBKXEKbGqtr-tIjKA' target='_blank'>Shubham Jha Studios</a>.</p>
 
-My portfolio website link: https://www.binayakjha.cf/
+My portfolio website link: https://binayakjha.com.np/
 
 ## My Github Stats:
 
