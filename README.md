@@ -1,4 +1,4 @@
-<h1 align="center"> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hello, folks!  I'm Binayak Jha 👨‍💻 </h1>
+<h1 align="center"> Hello, folks!  I'm Binayak Jha 👨‍💻 </h1>
 
 <p> I'm a full-stack web developer interested in machine learning. I enjoy learning new things and sharing them with others. Apart from coding, I enjoy growing 🌱 plants and ✍️ writing articles on them. Sometimes, I act on the videos my brother creates for his channel,<a href='https://www.youtube.com/channel/UCsyi8rUBKXEKbGqtr-tIjKA' target='_blank'>Shubham Jha Studios</a>.</p>
 
