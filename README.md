@@ -32,4 +32,3 @@ You can contact me from:
  </a>
  </center>
  </p>        
-![Profile View Counter](https://komarev.com/ghpvc/?username=BinayakJha)
