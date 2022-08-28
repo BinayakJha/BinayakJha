@@ -6,7 +6,7 @@ My portfolio website link: https://binayakjha.com.np
 
 ## My Github Stats:
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=BinayakJha&show_icons=true&" alt="BinayakJha"/></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=BinayakJha&show_icons=true" alt="BinayakJha"/></p>
 
 ## Some Of My Repositories:
 
