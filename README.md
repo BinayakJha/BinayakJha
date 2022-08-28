@@ -10,8 +10,10 @@ My portfolio website link: https://binayakjha.com.np
 
 ## Some Of My Repositories:
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BinayakJha&repo=search-engine)](https://github.com/BinayakJha/search-engine) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BinayakJha&repo=autoplot-web&show_owner)](https://github.com/BinayakJha/autoplot-web)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BinayakJha&repo=assistant)](https://github.com/BinayakJha/assistant) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BinayakJha&repo=File-Manager)](https://github.com/BinayakJha/File-Manager)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BinayakJha&repo=search-engine)](https://github.com/BinayakJha/search-engine) 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BinayakJha&repo=autoplot-web&show_owner)](https://github.com/BinayakJha/autoplot-web)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BinayakJha&repo=Khoja-Community-at-your-Palms)](https://github.com/BinayakJha/Khoja-Community-at-your-Palms)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BinayakJha&repo=Blood_donor_app)](https://github.com/BinayakJha/Blood_donor_app)
 
 
 
