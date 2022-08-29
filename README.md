@@ -35,7 +35,7 @@ Heya! I'm a full-stack web developer interested in machine learning. I enjoy lea
  
  
 </div>
-</p>
+</p> <br>
 
 ```python
 class BinayakJha():
@@ -54,6 +54,7 @@ if __name__ == '__main__':
     me = BinayakJha()
 ```
 
+<br>
 
 ## My Statistics
 
