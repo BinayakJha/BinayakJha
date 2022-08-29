@@ -34,7 +34,7 @@ Heya! I'm a full-stack web developer interested in machine learning. I enjoy lea
 </div>
 </p> <br>
 
-## A little bit about me
+## :man_technologist: A little bit about me
 
 ```python
 class BinayakJha():
