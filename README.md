@@ -31,9 +31,6 @@ Heya! I'm a full-stack web developer interested in machine learning. I enjoy lea
  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white">
  <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white">
  
- 
- 
- 
 </div>
 </p> <br>
 
@@ -56,7 +53,7 @@ if __name__ == '__main__':
 
 <br>
 
-## My Statistics
+## :fire: My Stats
 
 <br/>
 <p align="left">
