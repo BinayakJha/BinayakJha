@@ -69,3 +69,18 @@ if __name__ == '__main__':
 
 [![Binayak Jha Activity Graph](https://activity-graph.herokuapp.com/graph?username=BinayakJha&custom_title=Binayak%20Jha%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://activity-graph.herokuapp.com/graph?username=BinayakJha&custom_title=Binayak%20Jha%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)
 
+
+ ## My Social Media Links
+
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/binayak-jha/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://www.youtube.com/channel/UCtD420HIjZNE4OvCKJAtXLA">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+  <a href="https://www.facebook.com/binayak.jha.py/">
+    <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
+<br>
