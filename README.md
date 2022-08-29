@@ -1,36 +1,70 @@
-<h1 align="center"> Hello, folks!  I'm Binayak Jha 👨‍💻 </h1>
+<h1 align="center">
+  <b>Binayak Jha</b>
+</h1>
 
-<p> I'm a full-stack web developer interested in machine learning. I enjoy learning new things and sharing them with others. Apart from coding, I enjoy growing 🌱 plants and ✍️ writing articles on them. Sometimes, I act on the videos my brother creates for his channel,<a href='https://www.youtube.com/channel/UCsyi8rUBKXEKbGqtr-tIjKA' target='_blank'>Shubham Jha Studios</a>.</p>
+Heya! I'm a full-stack web developer interested in machine learning. I enjoy learning new things and sharing them with others. Apart from coding, I enjoy growing 🌱 plants and ✍️ writing articles on them. Sometimes, I act on the videos my brother creates for his channel,Shubham Jha Studios.
 
-My portfolio website link: https://binayakjha.com.np
+<br>
 
-## My Github Stats:
+<p>
+<div align="center">
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
+  <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white">
+  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white">
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+ <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white">
+ <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">
+ <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white">
+ <br>
+<!--  OTHER -->
+ <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
+ <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0">
+ <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
+ <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white0">
+ <img src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white">
+ <br>
+ 
+ <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white">
+ <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white">
+ <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white">
+ 
+ <br>
+ 
+ 
+ 
+</div>
+</p>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=BinayakJha&show_icons=true" alt="BinayakJha"/></p>
+```python
+class BinayakJha():
+    
+  def __init__(self):
+    self.name = "Binayak Jha";
+    self.username = "BinayakJha";
+    self.location = "Imadol, Nepal";
+    self.twitter = "@binayak-jha";
+    self.web = "https://binayakjha.com.np";
+  
+  def __str__(self):
+    return self.name
 
-<!-- ## Some Of My Repositories:
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BinayakJha&repo=search-engine)](https://github.com/BinayakJha/search-engine) 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BinayakJha&repo=autoplot-web&show_owner)](https://github.com/BinayakJha/autoplot-web)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BinayakJha&repo=Khoja-Community-at-your-Palms)](https://github.com/BinayakJha/Khoja-Community-at-your-Palms)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BinayakJha&repo=Blood_donor_app)](https://github.com/BinayakJha/Blood_donor_app) -->
+if __name__ == '__main__':
+    me = BinayakJha()
+```
 
 
+## My Statistics
 
-## Technologies and tools used by me:
+<br/>
+<p align="left">
+  <a href="https://abhigyantrips.dev/">
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=BinayakJha&show_icons=true&theme=gruvbox&hide_border=true" />
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=BinayakJha&theme=gruvbox&hide_border=true" />
+  </a>
+</p>
+<br>
 
-![](https://img.shields.io/badge/OS-MACOS-informational?style=flat&logo=apple&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=HTML&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=css&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Code-Bootstrap-informational?style=flat&logo=bootstrap&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Code-Django-informational?style=flat&logo=django&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Tools-MySQLite-informational?style=flat&logo=sqlite&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=git&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Tools-Github-informational?style=flat&logo=github&logoColor=white&color=2bbc8a) 
+[![Binayak Jha Activity Graph](https://activity-graph.herokuapp.com/graph?username=BinayakJha&custom_title=Binayak%20Jha%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://binayakjha.com.np)
 
-## Social Media:
-
-You can contact me from:
-<p align='center'>
-<center>
- <a href="https://www.facebook.com/binayak.jha.py/">
-   <img src="https://upload.wikimedia.org/wikipedia/en/thumb/0/04/Facebook_f_logo_%282021%29.svg/100px-Facebook_f_logo_%282021%29.svg.png" width="50px">
- </a>&nbsp;&nbsp;
- <a href="mailto:jha36binayak@gmail.com">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/100px-Gmail_icon_%282020%29.svg.png" width="50px">
- </a>
- </center>
- </p>        
