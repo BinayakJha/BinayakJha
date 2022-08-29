@@ -1,5 +1,5 @@
 <h1 align="center">
-  <b>Binayak Jha</b>
+  <b>Welcome to Binayak Jha Github Profile !</b>
 </h1>
 
 Heya! I'm a full-stack web developer interested in machine learning. I enjoy learning new things and sharing them with others. Apart from coding, I enjoy growing 🌱 plants and ✍️ writing articles on them. Sometimes, I act on the videos my brother creates for his channel,Shubham Jha Studios.
