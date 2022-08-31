@@ -44,7 +44,7 @@ class BinayakJha():
     self.username = "BinayakJha";
     self.location = "Imadol, Nepal";
     self.twitter = "@binayak-jha";
-    self.web = "https://binayakjha.com.np/";
+    self.web = "https://binayakjha.com.np";
   
   def __str__(self):
     return self.name
