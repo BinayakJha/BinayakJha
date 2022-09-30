@@ -83,6 +83,9 @@ if __name__ == '__main__':
   </a>
 </div>
 <br>
-<div>
-<img src="https://holopin.io/api/user/board?user=binayakjha">
-<div>
+<p align="left">
+<a href="https://makers.appwrite.io/BinayakJha">
+    <img src="https://appwrite.io/cards/makers/BinayakJha" alt="BinayakJha's Maker Card" width="49.5%">
+</a>
+<img src="https://holopin.io/api/user/board?user=binayakjha" width="49.5%">
+<p>
