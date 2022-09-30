@@ -83,9 +83,12 @@ if __name__ == '__main__':
   </a>
 </div>
 <br>
-<p align="left">
+
+## Other Badges
+
+<p align="left" style="object-fit:contain;">
 <a href="https://makers.appwrite.io/BinayakJha">
     <img src="https://appwrite.io/cards/makers/BinayakJha" alt="BinayakJha's Maker Card" width="49.5%">
 </a>
-<img src="https://holopin.io/api/user/board?user=binayakjha" width="49.5%">
+<img src="https://holopin.io/api/user/board?user=binayakjha" width="48.5%" height="300px">
 <p>
