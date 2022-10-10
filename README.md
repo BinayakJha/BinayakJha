@@ -32,7 +32,7 @@ Heya! I'm a full-stack web developer interested in machine learning. I enjoy lea
  <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white">
  
 </div>
-</p> <br>
+</p>
 
 ## :man_technologist: A little bit about me
 
@@ -53,8 +53,6 @@ if __name__ == '__main__':
     me = BinayakJha()
 ```
 
-<br>
-
 ## :fire: My Stats
 
 <br/>
@@ -64,7 +62,6 @@ if __name__ == '__main__':
     <img width="49.5%" src="http://github-readme-streak-stats.herokuapp.com/?user=BinayakJha&theme=gruvbox&hide_border=true" />
   </a>
 </p>
-
 
 [![Binayak Jha Activity Graph](http://activity-graph.herokuapp.com/graph?username=BinayakJha&custom_title=Binayak%20Jha%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://activity-graph.herokuapp.com/graph?username=BinayakJha&custom_title=Binayak%20Jha%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)
 
