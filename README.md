@@ -64,7 +64,7 @@ if __name__ == '__main__':
     <img width="49.5%" src="http://github-readme-streak-stats.herokuapp.com/?user=BinayakJha&theme=gruvbox&hide_border=true" />
   </a>
 </p>
-<br>
+
 
 [![Binayak Jha Activity Graph](http://activity-graph.herokuapp.com/graph?username=BinayakJha&custom_title=Binayak%20Jha%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://activity-graph.herokuapp.com/graph?username=BinayakJha&custom_title=Binayak%20Jha%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)
 
