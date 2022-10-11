@@ -80,5 +80,10 @@ if __name__ == '__main__':
   </a>
 </div>
 <br>
+<p align="left">
+<img src="https://user-images.githubusercontent.com/69071769/195079474-60ac7b84-5cb7-4384-938a-72b37104b609.png" width="49.5%" height="50%">
+<img src ="https://user-images.githubusercontent.com/69071769/195079403-20accf00-e104-4f4c-afca-8eafb0532f07.png" width = "49.5%" height="50%">
+
+</p>
 
 
