@@ -58,12 +58,12 @@ if __name__ == '__main__':
 <br/>
 <p align="left">
   <a href="#">
-  <img width="49.5%" src="http://github-readme-stats.vercel.app/api?username=BinayakJha&show_icons=true&theme=gruvbox&hide_border=true" />
-    <img width="49.5%" src="http://github-readme-streak-stats.herokuapp.com/?user=BinayakJha&theme=gruvbox&hide_border=true" />
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=BinayakJha&show_icons=true&theme=gruvbox&hide_border=true" />
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=BinayakJha&theme=gruvbox&hide_border=true" />
   </a>
 </p>
 
-[![Binayak Jha Activity Graph](http://activity-graph.herokuapp.com/graph?username=BinayakJha&custom_title=Binayak%20Jha%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://activity-graph.herokuapp.com/graph?username=BinayakJha&custom_title=Binayak%20Jha%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)
+[![Binayak Jha Activity Graph](https://activity-graph.herokuapp.com/graph?username=BinayakJha&custom_title=Binayak%20Jha%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](http://activity-graph.herokuapp.com/graph?username=BinayakJha&custom_title=Binayak%20Jha%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)
 
 
  ## My Social Media Links
