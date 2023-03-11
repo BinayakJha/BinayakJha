@@ -64,7 +64,7 @@ if __name__ == '__main__':
 </p>
 
 
-[![Binayak Jha github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Ashutosh00710&theme=dracula)](https://github.com/BinayakJha/github-readme-activity-graph)
+[![Binayak Jha github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=BinayakJha&theme=dracula)](https://github.com/BinayakJha/github-readme-activity-graph)
 
  ## My Social Media Links
 
