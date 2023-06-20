@@ -2,7 +2,7 @@
   <b>Welcome to Binayak Github Profile !</b>
 </h1>
 
-Heya! I'm a full-stack web developer interested in machine learning. I enjoy learning new things and sharing them with others. Apart from coding, I enjoy growing 🌱 plants and ✍️ writing articles on them. Sometimes, I act on the videos my brother creates for his channel,Shubham Jha Studios.
+Motivated team player with experience developing, deploying, and maintaining software solutions. Experience in developing applications for a wide range of industries, including tech, healthcare, non-profit organization, finance, etc. Well-versed in using cutting-edge technologies, such as React and Django, to create powerful solutions.
 
 <p> My Portfolio Website: <a href="https://binayakjha.com.np"> Click Here </a>
 
