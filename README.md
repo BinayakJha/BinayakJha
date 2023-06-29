@@ -2,7 +2,9 @@
   <b>Welcome to Binayak Github Profile !</b>
 </h1>
 
-Motivated team player with experience developing, deploying, and maintaining software solutions. Experience in developing applications for a wide range of industries, including tech, healthcare, non-profit organization, finance, etc. Well-versed in using cutting-edge technologies, such as React and Django, to create powerful solutions.
+I'm a dedicated team work with a strong background in designing, building, and maintaining software solutions. I've worked across different industries like tech, healthcare, non-profits, and finance. I enjoy using modern technologies such as React and Django to create effective and user-friendly solutions.
+
+Working in diverse teams and tackling challenging projects is where I feel most at home. I'm always eager to learn, grow my skills, and bring new ideas to the table. Looking forward to working on more projects where I can use my technical knowledge and problem-solving skills to make a real impact.
 
 <p> My Portfolio Website: <a href="https://binayakjha.com.np"> Click Here </a>
 
