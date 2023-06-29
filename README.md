@@ -1,5 +1,5 @@
 <h1 align="center">
-  <b>Welcome to Binayak Github Profile !</b>
+  <b>Welcome to Binayak Github Profile!</b>
 </h1>
 
 I'm a dedicated team work with a strong background in designing, building, and maintaining software solutions. I've worked across different industries like tech, healthcare, non-profits, and finance. I enjoy using modern technologies such as React and Django to create effective and user-friendly solutions.
