@@ -49,7 +49,7 @@ class BinayakJha():
     self.name = "Binayak Jha";
     self.username = "BinayakJha";
     self.location = "Imadol, Nepal";
-    self.twitter = "@binayak-jha";
+    self.linkedin = "@binayak-jha";
     self.web = "https://binayakjha.com.np";
   
   def __str__(self):
