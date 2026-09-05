@@ -20,9 +20,9 @@ Right now, I'm building **Imagine**—a new way to think with AI, where ideas be
 ### Selected work
 
 - **[Imagine](https://www.imagine-lab.tech)** — co-founding and leading the technical development of a creative interface for AI.
-- **[Bhanu](https://github.com/BinayakJha/bhanu)** — an NLP system built with a student team to archive and translate regional Nepali folk stories.
-- **[HamroGPT](https://github.com/BinayakJha/hamrogpt)** — an AI toolkit designed around the language and needs of Nepali users.
-- **[USD/NPR forecasting](https://github.com/BinayakJha/forex-ai)** — LSTM, GRU, and ARIMA models that reached 98% directional accuracy on held-out data.
+- **Bhanu** — an NLP system built with a student team to archive and translate regional Nepali folk stories.
+- **HamroGPT** — an AI toolkit designed around the language and needs of Nepali users.
+- **USD/NPR forecasting** — LSTM, GRU, and ARIMA models that reached 98% directional accuracy on held-out data.
 - **COVID Resources Nepal** — helped build a real-time resource platform that reached 84,000+ people, supported 900+ families, and helped raise $20K during Nepal's oxygen crisis.
 
 ### A few things I've done
