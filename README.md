@@ -1,12 +1,12 @@
 <h1 align="center">Binayak Jha</h1>
 
 <p align="center">
-  <strong>Co-founder & CTO, <a href="https://www.imagine-lab.tech">Imagine</a></strong><br>
+  <strong>Co-founder & CTO, <a href="https://imaginei.ai">Imagine</a></strong><br>
   Building the canvas where you explain your ideas live, instead of making slides about them.
 </p>
 
 <p align="center">
-  <a href="https://www.imagine-lab.tech">imagine-lab.tech</a> ·
+  <a href="https://imaginei.ai">imaginei.ai</a> ·
   <a href="https://binayakjha.com.np">Website</a> ·
   <a href="https://www.linkedin.com/in/binayak-jha/">LinkedIn</a>
 </p>
