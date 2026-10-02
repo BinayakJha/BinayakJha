@@ -1,43 +1,39 @@
 <h1 align="center">Binayak Jha</h1>
 
 <p align="center">
-  <strong>Co-Founder at Imagine</strong><br>
-  Building a creative interface for intelligence.
+  <strong>Co-founder & CTO, <a href="https://www.imagine-lab.tech">Imagine</a></strong><br>
+  Building the canvas where you explain your ideas live, instead of making slides about them.
 </p>
 
 <p align="center">
+  <a href="https://www.imagine-lab.tech">imagine-lab.tech</a> ·
   <a href="https://binayakjha.com.np">Website</a> ·
-  <a href="https://www.linkedin.com/in/binayak-jha/">LinkedIn</a> ·
-  <a href="https://github.com/BinayakJha">GitHub</a>
+  <a href="https://www.linkedin.com/in/binayak-jha/">LinkedIn</a>
 </p>
 
 ---
 
-I'm a computer science student at **Franklin & Marshall College** and a technical founder working where **AI, product, and human creativity** meet.
+### What I'm building
 
-Right now, I'm building **Imagine**—a new way to think with AI, where ideas become interactive, evolving systems instead of disappearing into chat transcripts.
+**Imagine** is an intelligent world canvas. You talk, and what you say becomes a world you can step into, explore, and explain with: the numbers, the business model, the users, the problem. No deck, no pre-made video. You just explain yourself live.
 
-### Selected work
+I lead product engineering, building a speech-driven pipeline where a "director" agent turns each sentence into a scene in a couple of seconds.
 
-- **[Imagine](https://www.imagine-lab.tech)** — co-founding and leading the technical development of a creative interface for AI.
-- **Bhanu** — an NLP system built with a student team to archive and translate regional Nepali folk stories.
-- **HamroGPT** — an AI toolkit designed around the language and needs of Nepali users.
-- **USD/NPR forecasting** — LSTM, GRU, and ARIMA models that reached 98% directional accuracy on held-out data.
-- **COVID Resources Nepal** — helped build a real-time resource platform that reached 84,000+ people, supported 900+ families, and helped raise $20K during Nepal's oxygen crisis.
+### Before Imagine
 
-### A few things I've done
+- **COVID Resources Nepal** helped 84,000+ people find oxygen and beds, supported 900+ families, and raised $20K during Nepal's oxygen crisis.
+- **Five AI products in five weeks**, each with 200+ active users.
+- **HamroGPT and Bhanu** are AI and NLP tools built for Nepali speakers and Nepali folk stories.
+- Started a student tech community of **275+ students across 13 schools**.
+- **Warburg Pincus Fellow at Wharton**, one of 34 students chosen nationwide.
+- Co-authored peer-reviewed research on quantum cryptography.
 
-- Shipped **five full-stack AI products in five weeks**, each reaching 200+ active users.
-- Founded a tech community that engaged **275+ students across 13 schools**.
-- Selected as **1 of 34 students nationwide** for the Warburg Pincus Fellowship at Wharton.
-- Co-authored peer-reviewed research on quantum cryptography applications.
+### Stack
 
-### Tools I reach for
-
-`Python` · `TypeScript` · `React` · `Next.js` · `FastAPI` · `Django` · `PyTorch` · `AWS` · `Docker` · `CI/CD`
+`TypeScript` · `React` · `Next.js` · `Python` · `FastAPI` · `PyTorch` · `MongoDB` · `Vercel` · `AWS`
 
 ---
 
 <p align="center">
-  I'm always interested in ambitious products, exceptional builders, and serious conversations about the future of AI.
+  If you're an exceptional builder, an educator, a filmmaker, or an investor who wants to rethink how ideas get explained, <a href="https://www.linkedin.com/in/binayak-jha/">let's talk</a>.
 </p>
