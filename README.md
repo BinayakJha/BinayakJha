@@ -10,15 +10,14 @@
 <h1 align="center">Binayak Jha</h1>
 
 <p align="center">
-  <strong>Co-Founder at Imagine</strong><br>
-  Building a creative interface for intelligence.
+  <strong>Co-founder & CTO, <a href="https://imaginei.ai">Imagine</a></strong><br>
+  Building the canvas where you explain your ideas live, instead of making slides about them.
 </p>
 
 <p align="center">
-  <a href="https://imaginei.ai">Imagine</a> ·
+  <a href="https://imaginei.ai">imaginei.ai</a> ·
   <a href="https://binayakjha.com.np">Website</a> ·
-  <a href="https://www.linkedin.com/in/binayak-jha/">LinkedIn</a> ·
-  <a href="https://github.com/BinayakJha">GitHub</a>
+  <a href="https://www.linkedin.com/in/binayak-jha/">LinkedIn</a>
 </p>
 
 I'm a computer science student at **Franklin & Marshall College** and a technical founder working where **AI, product, and human creativity** meet.
@@ -57,10 +56,7 @@ Selected work. Open a chapter.
 
 ## A few things I've done
 
-- Shipped **five full-stack AI products in five weeks**, each reaching 200+ active users.
-- Founded a tech community that engaged **275+ students across 13 schools**.
-- Selected as **1 of 34 students nationwide** for the Warburg Pincus Fellowship at Wharton.
-- Co-authored peer-reviewed research on quantum cryptography applications.
+### Stack
 
 ## Tools I reach for
 
@@ -80,7 +76,7 @@ Public GitHub contributions over the last year, drawn as a ridge.
 ---
 
 <p align="center">
-  I'm always interested in ambitious products, exceptional builders, and serious conversations about the future of AI.
+  If you're an exceptional builder, an educator, a filmmaker, or an investor who wants to rethink how ideas get explained, <a href="https://www.linkedin.com/in/binayak-jha/">let's talk</a>.
 </p>
 
 <p align="center">
