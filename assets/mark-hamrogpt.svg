@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" role="img">
+  <title>HamroGPT</title>
+  <rect x="3.2" y="4.2" width="17.6" height="11.2" rx="3.2" fill="none" stroke="#0C8A62" stroke-width="1.7"/>
+  <path d="M8 15.4 7.2 19.2 12.2 15.4" fill="none" stroke="#0C8A62" stroke-width="1.7" stroke-linejoin="round" stroke-linecap="round"/>
+  <circle cx="8.2" cy="9.8" r="1.05" fill="#E15A3A"/>
+  <circle cx="12" cy="9.8" r="1.05" fill="#0C8A62"/>
+  <circle cx="15.8" cy="9.8" r="1.05" fill="#0C8A62"/>
+</svg>

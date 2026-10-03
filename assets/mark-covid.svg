@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" role="img">
+  <title>COVID Resources Nepal</title>
+  <path d="M12 12 5.2 7.2M12 12 18.8 7.6M12 12 6.4 17.6M12 12 17.8 17.2" fill="none" stroke="#0C8A62" stroke-width="1.4" stroke-linecap="round" opacity="0.7"/>
+  <circle cx="12" cy="12" r="2.15" fill="#0C8A62"/>
+  <circle cx="5.2" cy="7.2" r="1.55" fill="none" stroke="#0C8A62" stroke-width="1.5"/>
+  <circle cx="18.8" cy="7.6" r="1.55" fill="none" stroke="#0C8A62" stroke-width="1.5"/>
+  <circle cx="6.4" cy="17.6" r="1.55" fill="none" stroke="#0C8A62" stroke-width="1.5"/>
+  <circle cx="17.8" cy="17.2" r="1.55" fill="none" stroke="#0C8A62" stroke-width="1.5"/>
+</svg>

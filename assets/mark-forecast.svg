@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" role="img">
+  <title>USD/NPR forecasting</title>
+  <path d="M4.5 18.5V5.5" fill="none" stroke="#0C8A62" stroke-width="1.7" stroke-linecap="round"/>
+  <path d="M4.5 18.5H19.5" fill="none" stroke="#0C8A62" stroke-width="1.7" stroke-linecap="round"/>
+  <path d="M7 15.2c2.2-.4 3.6-2.6 5.4-3.6 1.8-1 3.4-1.2 5.2-3.4" fill="none" stroke="#E15A3A" stroke-width="1.7" stroke-linecap="round"/>
+</svg>
