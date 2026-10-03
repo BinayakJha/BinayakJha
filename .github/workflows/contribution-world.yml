@@ -1,0 +1,45 @@
+name: Paint the contribution world
+
+on:
+  schedule:
+    - cron: "15 6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: contribution-world
+  cancel-in-progress: false
+
+jobs:
+  paint:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Draw the ridge
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: python3 scripts/paint_contribution_world.py --dest /tmp/world
+
+      - name: Publish to the output branch
+        run: |
+          set -euo pipefail
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          if git fetch origin output && git show-ref --verify --quiet refs/remotes/origin/output; then
+            git checkout -B output origin/output
+          else
+            git checkout --orphan output
+            git rm -rf --cached . >/dev/null 2>&1 || true
+          fi
+          cp /tmp/world/contribution-world-light.svg /tmp/world/contribution-world-dark.svg .
+          git add contribution-world-light.svg contribution-world-dark.svg
+          if git diff --cached --quiet; then
+            echo "Landscape unchanged."
+            exit 0
+          fi
+          git commit -m "Redraw the contribution world"
+          git push origin HEAD:output

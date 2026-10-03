@@ -1,0 +1,94 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="560" viewBox="0 0 960 560" role="img">
+  <title>Speak, and a world appears</title>
+  <desc>A sentence resolves into a small landscape with a path, three marks, and a diagram.</desc>
+  <rect width="960" height="560" fill="#0D1117"/>
+  <defs>
+    <clipPath id="type"><rect x="108" y="86" width="640" height="72"><animate attributeName="width" values="0;640" dur="1.7s" fill="freeze" calcMode="spline" keySplines="0.16 0.84 0.3 1"/></rect></clipPath>
+    <clipPath id="plate">
+      <rect x="50" y="178" width="860" height="340" rx="12"/>
+    </clipPath>
+  </defs>
+  
+    <text x="112" y="68" fill="#FF8B6A" font-family="Georgia, 'Iowan Old Style', 'Palatino Linotype', Palatino, 'Noto Serif', 'Times New Roman', serif" font-style="italic" font-size="28" opacity="1">
+      Speak,
+      <animate attributeName="opacity" values="0;1" dur="0.55s" fill="freeze"/>
+    </text>
+    
+    <line x1="116" y1="80" x2="184" y2="80" stroke="#FF8B6A" stroke-width="2" stroke-linecap="round"
+          pathLength="100" stroke-dasharray="100" stroke-dashoffset="0">
+      <animate attributeName="stroke-dashoffset" values="100;0" dur="0.7s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1"/>
+    </line>
+    <g clip-path="url(#type)">
+      <text x="112" y="134" font-family="Georgia, 'Iowan Old Style', 'Palatino Linotype', Palatino, 'Noto Serif', 'Times New Roman', serif" font-size="48">
+        <tspan fill="#F4EFE6">and a world </tspan><tspan fill="#6EE0B8">appears.</tspan>
+      </text>
+    </g>
+  
+    <g fill="none" stroke="#FF8B6A" stroke-linecap="round">
+      <circle cx="46" cy="96" r="2.9" fill="#FF8B6A" stroke="none"/>
+      <path d="M53.4 88.6 a11.0 11.0 0 0 1 0 14.7" stroke-width="1.93">
+        <animate attributeName="opacity" values="0.30;1;0.30" dur="2.6s" repeatCount="indefinite"/>
+      </path>
+      <path d="M58.9 82.2 a18.4 18.4 0 0 1 0 27.6" stroke-width="1.93" opacity="0.75">
+        <animate attributeName="opacity" values="0.18;0.85;0.18" dur="2.6s" repeatCount="indefinite" begin="0.28s"/>
+      </path>
+      <path d="M64.4 75.8 a25.8 25.8 0 0 1 0 40.5" stroke-width="1.93" opacity="0.45">
+        <animate attributeName="opacity" values="0.08;0.6;0.08" dur="2.6s" repeatCount="indefinite" begin="0.56s"/>
+      </path>
+    </g>
+  
+    <rect x="40" y="168" width="880" height="360" rx="18" fill="#101A20" stroke="#24313A" stroke-width="1.75"/>
+    <rect x="50" y="178" width="860" height="340" rx="12" fill="none" stroke="#24313A" stroke-width="1" opacity="0.85"/>
+  
+    <g clip-path="url(#plate)">
+      <rect x="40" y="168" width="880" height="360" fill="#101A20"/>
+      <circle cx="620" cy="230" r="1.3" fill="#F4EFE6" opacity="0.45"><animate attributeName="opacity" values="0.15;0.7;0.15" dur="4.5s" repeatCount="indefinite"/></circle>
+<circle cx="688" cy="252" r="1.1" fill="#F4EFE6" opacity="0.45"><animate attributeName="opacity" values="0.15;0.7;0.15" dur="4.3s" repeatCount="indefinite"/></circle>
+<circle cx="648" cy="286" r="1.6" fill="#F4EFE6" opacity="0.45"><animate attributeName="opacity" values="0.15;0.7;0.15" dur="4.8s" repeatCount="indefinite"/></circle>
+<circle cx="860" cy="230" r="1.2" fill="#F4EFE6" opacity="0.45"><animate attributeName="opacity" values="0.15;0.7;0.15" dur="4.4s" repeatCount="indefinite"/></circle>
+<circle cx="500" cy="240" r="1.0" fill="#F4EFE6" opacity="0.45"><animate attributeName="opacity" values="0.15;0.7;0.15" dur="4.2s" repeatCount="indefinite"/></circle>
+<circle cx="560" cy="300" r="1.4" fill="#F4EFE6" opacity="0.45"><animate attributeName="opacity" values="0.15;0.7;0.15" dur="4.6s" repeatCount="indefinite"/></circle>
+<circle cx="910" cy="300" r="1.1" fill="#F4EFE6" opacity="0.45"><animate attributeName="opacity" values="0.15;0.7;0.15" dur="4.3s" repeatCount="indefinite"/></circle>
+<circle cx="430" cy="250" r="1.2" fill="#F4EFE6" opacity="0.45"><animate attributeName="opacity" values="0.15;0.7;0.15" dur="4.4s" repeatCount="indefinite"/></circle>
+      <circle cx="812" cy="228" r="42" fill="none" stroke="#F0C14A" stroke-width="1.6" opacity="0.4">
+        <animate attributeName="opacity" values="0.18;0.55;0.18" dur="5.2s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="812" cy="228" r="26" fill="#F0C14A"/>
+      <path d="M72 246 q18 -16 36 0 t36 0 t36 0 t36 0 t36 0" fill="none" stroke="#FF8B6A" stroke-width="2.4" stroke-linecap="round" opacity="0.85">
+        <animate attributeName="opacity" values="0.4;0.9;0.4" dur="3.8s" repeatCount="indefinite"/>
+      </path>
+      <path d="M50 400 C150 400 190 318 300 312 C410 306 460 372 560 382 C670 394 710 324 810 316 C880 310 910 352 910 372 L910 518 L50 518 Z" fill="#17362F"/>
+<path d="M50 448 C170 430 240 392 360 404 C490 418 540 468 660 456 C780 444 840 400 910 424 L910 518 L50 518 Z" fill="#1C5648"/>
+<path d="M50 492 C210 468 340 512 500 498 C660 484 760 452 910 478 L910 518 L50 518 Z" fill="#1B7A62"/>
+      <path d="M284 408 C316 403 390 358 490 346 C580 336 640 398 712 406 C792 416 838 362 892 374" fill="none" stroke="#04140F" stroke-width="7" stroke-linecap="round" stroke-linejoin="round" opacity="0.55"
+            pathLength="100" stroke-dasharray="100" stroke-dashoffset="0"><animate attributeName="stroke-dashoffset" values="100;100;0" dur="3.6s" fill="freeze" keyTimes="0;0.38;1"/></path>
+      <path d="M284 408 C316 403 390 358 490 346 C580 336 640 398 712 406 C792 416 838 362 892 374" fill="none" stroke="#F4EFE6" stroke-width="2.75" stroke-linecap="round" stroke-linejoin="round"
+            pathLength="100" stroke-dasharray="100" stroke-dashoffset="0"><animate attributeName="stroke-dashoffset" values="100;100;0" dur="3.6s" fill="freeze" keyTimes="0;0.38;1"/></path>
+      <g opacity="1">
+            <circle cx="490" cy="346" r="12" fill="#172027" stroke="#FF8B6A" stroke-width="2"/>
+            <circle cx="490" cy="346" r="3.4" fill="#FF8B6A"/><animate attributeName="opacity" values="0;0;1" dur="4.2s" fill="freeze" keyTimes="0;0.46;0.62"/></g>
+<g opacity="1">
+            <rect x="700" y="394" width="24" height="24" rx="6" fill="#172027" stroke="#F4EFE6" stroke-width="2"/>
+            <path d="M707 401 h3.2 v3.2 h-3.2 z M713.6 401 h3.2 v3.2 h-3.2 z M707 407.6 h3.2 v3.2 h-3.2 z M713.6 407.6 h3.2 v3.2 h-3.2 z" fill="#F4EFE6"/><animate attributeName="opacity" values="0;0;1" dur="4.2s" fill="freeze" keyTimes="0;0.54;0.70"/></g>
+<g opacity="1">
+            <circle cx="852" cy="375" r="12" fill="#172027" stroke="#6EE0B8" stroke-width="2"/>
+            <path d="M846.5 379 v-4 M850.8 379 v-7 M855.2 379 v-10" stroke="#6EE0B8" stroke-width="1.8" stroke-linecap="round"/><animate attributeName="opacity" values="0;0;1" dur="4.2s" fill="freeze" keyTimes="0;0.62;0.78"/></g>
+      <g>
+        <circle r="10" fill="none" stroke="#FF8B6A" stroke-width="1.5" opacity="0.55"/>
+        <circle r="4.5" fill="#FF8B6A"/>
+        <animateMotion dur="14s" repeatCount="indefinite" rotate="0" path="M284 408 C316 403 390 358 490 346 C580 336 640 398 712 406 C792 416 838 362 892 374"/>
+      </g>
+      
+    <g>
+      <rect x="64" y="328" width="220" height="158" rx="14" fill="#172027" stroke="#2C3A44" stroke-width="1.5"/>
+      <line x1="86" y1="346" x2="86" y2="460" stroke="#3A4A55" stroke-width="1.5" stroke-linecap="round"/>
+      <line x1="86" y1="460" x2="256" y2="460" stroke="#3A4A55" stroke-width="1.5" stroke-linecap="round"/>
+      <path d="M98 450 C145 446 180 412 220 396 C248 384 260 412 284 408 L284 458 L98 458 Z" fill="#6EE0B8" opacity="0.16"/>
+      <path d="M98 450 C145 446 180 412 220 396 C248 384 260 412 284 408" fill="none" stroke="#F4EFE6" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"
+            pathLength="100" stroke-dasharray="100" stroke-dashoffset="0">
+        <animate attributeName="stroke-dashoffset" values="100;100;0" dur="3.4s" fill="freeze" keyTimes="0;0.42;1"/>
+      </path>
+      <circle cx="284" cy="408" r="4.5" fill="#FF8B6A"/>
+    </g>
+    </g>
+</svg>
