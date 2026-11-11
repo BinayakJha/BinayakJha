@@ -2,7 +2,6 @@
 
 <p align="center">
   <strong>Co-founder & CTO, <a href="https://imaginei.ai">Imagine</a></strong><br>
-  Building the canvas where you explain your ideas live, instead of making slides about them.
 </p>
 
 <p align="center">
